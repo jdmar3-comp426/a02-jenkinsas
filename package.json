@@ -1,0 +1,23 @@
+{
+  "name": "a02-jenkinsas",
+  "version": "1.0.0",
+  "description": "a02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-jenkinsas.git"
+  },
+  "author": "Amaya Jenkins",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-jenkinsas/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-jenkinsas#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "bulma": "^0.9.3"
+  }
+}
